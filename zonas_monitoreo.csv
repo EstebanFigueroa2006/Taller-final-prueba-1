@@ -1,0 +1,6 @@
+ID,Nombre,Ubicacion,Poblacion,Tipo,Promedio_PM2.5,Promedio_CO2
+1,Centro Historico,Plaza Mayor y alrededores,45000,Comercial,30.80,1117.00
+2,Parque Industrial Norte,Carretera Norte Km 15,12000,Industrial,48.44,1654.44
+3,Barrio Los Pinos,Sector Sur - Colonia Residencial,65000,Residencial,15.00,771.00
+4,Avenida Principal,Corredor vial Este-Oeste,38000,Mixta,24.00,977.00
+5,Complejo Industrial Sur,Zona Franca Industrial Sur Km 8,8500,Industrial,44.33,1576.67

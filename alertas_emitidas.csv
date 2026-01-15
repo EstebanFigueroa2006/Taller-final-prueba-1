@@ -1,0 +1,18 @@
+ID,Zona,Contaminante,Nivel_Actual,Limite,Exceso_Porcentaje,Gravedad,Fecha,Recomendacion
+1,Centro Historico,PM2.5,34.00,25.00,36.00,Alta,13/01/2026,Suspender actividades al aire libre, usar mascarillas
+2,Centro Historico,PM10,59.00,50.00,18.00,Moderada,13/01/2026,Reducir circulacion vehicular en horas pico
+3,Centro Historico,CO2,1170.00,1000.00,17.00,Moderada,13/01/2026,Promover uso de transporte publico y bicicletas
+4,Centro Historico,SO2,41.00,40.00,2.50,Moderada,13/01/2026,Monitorear emisiones industriales
+5,Centro Historico,NO2,29.00,25.00,16.00,Moderada,13/01/2026,Control de emisiones vehiculares diesel
+6,Parque Industrial Norte,PM2.5,53.00,25.00,112.00,Critica,13/01/2026,ALERTA MAXIMA: Cerrar industrias, suspender transporte
+7,Parque Industrial Norte,PM10,96.00,50.00,92.00,Critica,13/01/2026,ALERTA MAXIMA: Cerrar industrias, suspender transporte
+8,Parque Industrial Norte,CO2,1770.00,1000.00,77.00,Critica,13/01/2026,CRITICO: Cerrar fabricas, limitar trafico vehicular
+9,Parque Industrial Norte,SO2,73.00,40.00,82.50,Critica,13/01/2026,URGENTE: Cierre temporal de plantas industriales
+10,Parque Industrial Norte,NO2,46.00,25.00,84.00,Critica,13/01/2026,EMERGENCIA: Restriccion total vehiculos combustion
+11,Avenida Principal,PM2.5,27.00,25.00,8.00,Moderada,13/01/2026,Reducir circulacion vehicular en horas pico
+12,Avenida Principal,CO2,1030.00,1000.00,3.00,Moderada,13/01/2026,Promover uso de transporte publico y bicicletas
+13,Complejo Industrial Sur,PM2.5,49.00,25.00,96.00,Critica,13/01/2026,ALERTA MAXIMA: Cerrar industrias, suspender transporte
+14,Complejo Industrial Sur,PM10,91.00,50.00,82.00,Critica,13/01/2026,ALERTA MAXIMA: Cerrar industrias, suspender transporte
+15,Complejo Industrial Sur,CO2,1680.00,1000.00,68.00,Critica,13/01/2026,CRITICO: Cerrar fabricas, limitar trafico vehicular
+16,Complejo Industrial Sur,SO2,70.00,40.00,75.00,Critica,13/01/2026,URGENTE: Cierre temporal de plantas industriales
+17,Complejo Industrial Sur,NO2,43.00,25.00,72.00,Critica,13/01/2026,EMERGENCIA: Restriccion total vehiculos combustion
