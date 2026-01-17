@@ -8,9 +8,9 @@
 #define DIAS_HISTORICO 30  // Días para cálculo de promedios históricos
 
 // Límites de la OMS para contaminantes (μg/m³)
-#define LIMITE_PM25 25.0      // PM2.5 - Partículas finas
-#define LIMITE_PM10 50.0      // PM10 - Partículas gruesas
-#define LIMITE_CO2 1000.0     // CO2 en ppm (partes por millón)
+#define LIMITE_PM25 15.0      // PM2.5 - Partículas finas
+#define LIMITE_PM10 45.0      // PM10 - Partículas gruesas
+#define LIMITE_CO2 4000.0     // CO2 en ppm (partes por millón)
 #define LIMITE_SO2 40.0       // SO2 - Dióxido de azufre
 #define LIMITE_NO2 25.0       // NO2 - Dióxido de nitrógeno
 
@@ -150,3 +150,4 @@ int validarFechaReciente(int dia, int mes, int anio, int diasLimite);
 float calcularFactorClimatico(DatosClimaticos clima);
 float calcularFactorSocial(FactoresSociales factores, char *tipoZona);
 int verificarMinimoCincoZonas();
+
